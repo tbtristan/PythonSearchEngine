@@ -1,4 +1,4 @@
-'''CS 121 ASSIGNMENT 3 INSTRUCTIONS'''
+'''SEARCH ENGINE INSTRUCTIONS'''
 
 1. Place folder containing files to be indexed in same directory as main.py
 
